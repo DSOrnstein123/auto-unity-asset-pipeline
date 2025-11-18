@@ -1,2 +1,6 @@
 decrypt/*
 !decrypt/README.md
+
+extracted/*
+
+download/*
